@@ -1,0 +1,4 @@
+CREATE TABLE admissions (
+    gpa REAL, gre INT, projects INT, admit_prob REAL,
+    uni TEXT, cost_lakhs REAL, avg_salary REAL
+);

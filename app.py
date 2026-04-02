@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request
 import pandas as pd
-from sklearn.linear_model import LogisticRegression  # Train on admissions data
+from sklearn.linear_model import LogisticRegression  
 
 app = Flask(__name__)
 
